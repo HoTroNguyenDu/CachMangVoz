@@ -1,0 +1,17 @@
+Huong dan su dung:
+
+Account/Password: Nhap nhieu account vao theo format sau: 
+	- Moi dong la 1 cap account va password
+	- Format cua moi dong nhu sau: username tab password. VD: HoTroNguyenDu	passwordcuamay
+Box Link: Tat ca cac box se spam
+
+Cac nut khac thi de xai roi, tu doc tu hieu
+Trong truong hop xai account qua moi, voz no bat nhap captcha khi post bai, khi do phai nhap captcha vao roi nhan vao nut Go Captcha thi moi spam duoc, vi vay nen su dung cac account cu khoang 1 thang thi khoi nhap captcha, spam tu dong
+
+
+Cu moi 60 giay se spam 1 bai
+
+Nut Bat dau spam cac topic moi: cu 60 giay, tool se quet cac box, neu topic nao moi, co so reply < 10 thi se spam vao day, 60 giay spam 1 bai
+Nut Spam topic: Chi spam vao topic co Id da nhap. Cai nay xai cho may thang thich son, thich cau view giong nhu thang doithayxxx
+
+Hien tai tool chi dung o muc don gian, ai ranh thi phat trien them. Tui ko ranh dai nua
